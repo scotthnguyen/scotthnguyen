@@ -6,6 +6,7 @@
 
 ## Current Focus
 - Connecting University Students with the same classes via app
+- Creating a revised EMR! (Electronic Medial Record) 
 - Managing UCSB's snowflake database (60+ queries)
 - Power BI Workspaces CI/CD pipelines (via github)
 
