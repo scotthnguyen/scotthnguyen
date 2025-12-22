@@ -1,8 +1,8 @@
 # Hi, I'm Scott 👋
 
 🎓 Computer Science @ UCSB  
-📊 Python • SQL • C++ • PowerBI • Snowflake
-📈 Software Engineering, Data Engineering, and data visualization
+📊 Python • SQL • C++ • PowerBI • Snowflake  
+📈 Software Engineering, Data Engineering, and data visualization  
 
 ## Current Focus
 - Connecting University Students with the same classes via app
