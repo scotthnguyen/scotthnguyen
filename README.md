@@ -18,6 +18,6 @@
 - Power BI (DAX, semantic models)
 - Git & GitHub
 
-📫 Reach me: scotthoainguyen@gmail.com
+📫 Reach me: scottowandmore@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthnguyen&show_icons=true)
