@@ -9,6 +9,7 @@
 - Creating a revised EMR! (Electronic Medial Record) 
 - Managing UCSB's snowflake database (60+ queries)
 - Power BI Workspaces CI/CD pipelines (via github)
+- Volleyball Passion Project (movement tracking via tensor flow)
 
 ## Tech Stack
 - Python (pandas, ETL)
