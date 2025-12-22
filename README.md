@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Scott 👋
 
-<!--
-**scotthnguyen/scotthnguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science @ UCSB  
+📊 Python • SQL • C++ • PowerBI • Snowflake
+📈 Software Engineering, Data Engineering, and data visualization
 
-Here are some ideas to get you started:
+## Current Focus
+- Connecting University Students with the same classes via app
+- Managing UCSB's snowflake database (60+ queries)
+- Power BI CI/CD pipelines
+- Experimental design & regression analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- Python (pandas, ETL)
+- SQL (Snowflake, MySQL)
+- Power BI (DAX, semantic models)
+- Git & GitHub
+
+📫 Reach me: scotthoainguyen@gmail.com
