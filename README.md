@@ -1,4 +1,4 @@
-# Hi, I'm Scott 👋
+# Hi, I'm Scott Nguyen 👋
 
 🎓 Computer Science @ UCSB  
 📊 Python • SQL • C++ • PowerBI • Snowflake  
