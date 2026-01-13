@@ -21,4 +21,4 @@
 
 📫 Reach me: scottowandmore@gmail.com
 
-[portfolio website/](https://portfolio-website-efm.pages.dev/)
+[portfolio website](https://portfolio-website-efm.pages.dev/)
