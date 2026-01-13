@@ -21,4 +21,4 @@
 
 📫 Reach me: scottowandmore@gmail.com
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scotthnguyen&show_icons=true)
+[https://portfolio-website-efm.pages.dev/](https://portfolio-website-efm.pages.dev/)
