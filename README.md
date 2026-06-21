@@ -10,8 +10,8 @@ Sports (I play most sports)
 Nature  
 Books  
 Music  
-Cooking  
-Traveling  
+Cooking    
+Traveling    
 Doing things myself for cheaper  
 
 
