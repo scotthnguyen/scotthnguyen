@@ -1,24 +1,20 @@
-# Hi, I'm Scott Nguyen 👋
+# Hi, I'm Scott Nguyen 👋 and I love learning new things (techy and non techy)
 
-🎓 Computer Science @ UCSB  
-📊 Python • SQL • C++ • PowerBI • Snowflake  
-📈 Software Engineering, Data Engineering, and data visualization  
+Computer Science @ UCSB  
+Python • SQL • C++ 
+Software Engineer
 
-## Current Focus
-- Connecting University Students with the same classes via app
-- Creating a revised EMR! (Electronic Medial Record) 
-- Managing UCSB's snowflake database (60+ queries)
-- Power BI Workspaces CI/CD pipelines (via github)
-- Volleyball Passion Project (movement tracking via tensor flow)
 
-## Tech Stack
-- Python (pandas, ETL)
-- SQL (Snowflake, MySQL)
-- C++
-- TypeScript/React 
-- Power BI (DAX, semantic models)
-- Git & GitHub
+## List of things I love
+Sports (I play most sports)
+Nature
+Books
+Music
+Cooking
+Traveling
+Doing things myself for cheaper
 
-📫 Reach me: scottowandmore@gmail.com
 
+Reach me: scottowandmore@gmail.com
+[linkedin](https://www.linkedin.com/in/scottnguyencodes/)
 [portfolio website](https://portfolio-website-efm.pages.dev/)
