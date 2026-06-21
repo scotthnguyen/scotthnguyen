@@ -1,8 +1,8 @@
 # Hi, I'm Scott Nguyen 👋 and I love learning new things (techy and non techy)
 
 Computer Science @ UCSB  
-Python • SQL • C++ 
-Software Engineer
+Python • SQL • C++  
+Software Engineer  
 
 
 ## List of things I love
