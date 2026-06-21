@@ -6,13 +6,13 @@ Software Engineer
 
 
 ## List of things I love
-Sports (I play most sports)
-Nature
-Books
-Music
-Cooking
-Traveling
-Doing things myself for cheaper
+Sports (I play most sports)  
+Nature  
+Books  
+Music  
+Cooking  
+Traveling  
+Doing things myself for cheaper  
 
 
 Reach me: scottowandmore@gmail.com
